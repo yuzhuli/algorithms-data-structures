@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InsertionAndShellSort:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InsertionAndShellSort_jar</output-path>
+    <root id="archive" name="InsertionAndShellSort.jar">
+      <element id="module-output" name="InsertionAndShellSort" />
+    </root>
+  </artifact>
+</component>
